@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **A 2D Platformer Game**
 
-- 👯 I’m looking to collaborate on **Crypto/ComputerVision Based Projects**
+- 👯 I’m looking to collaborate on **ComputerVision Based Projects**
 
 - 💬 Ask me about  **python, C++, Bash and building cool sh*t**
 
