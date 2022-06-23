@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Carol42/Carol42/main/assets/header.png)
++![MasterHead](https://raw.githubusercontent.com/Carol42/Carol42/main/assets/header.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=6A00FF&center=true&vCenter=true&lines=I'm+Abenezer;Computer+Science+Student;Machine+Learning+Enthusiast;And;A+passionate+Python+developer;+from+Ethiopia!)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about  **python, C++, Bash and building cool sh*t**
 
-- 📫 How to reach me **walelignabenezer@gmail.com**
+- 📫 How to reach me **https://t.me/F43CF7BE94816F2A2C7CC9AC8**
 
 - ⚡ Fun fact **I think I am funny**
 
