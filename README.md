@@ -8,7 +8,7 @@
 
 - 💬 Ask me about  **python, C++, Bash and building cool sh*t**
 
-- 📫 How to reach me **https://t.me/F43CF7BE94816F2A2C7CC9AC8**
+- 📫 How to reach me **t.me/F43CF7BE94816F2A2C7CC9AC8**
 
 - ⚡ Fun fact **I think I am funny**
 
