@@ -2,11 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=6A00FF&center=true&vCenter=true&lines=I'm+Abenezer;Computer+Science+Student;Machine+Learning+Enthusiast;And;A+passionate+Python+developer;+from+Ethiopia!)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
-- 🔭 I’m currently working on **A 2D Platformer Game**
+- 🔭 I’m currently learning **(DRF) Django Rest Framework**
 
-- 👯 I’m looking to collaborate on **ComputerVision Based Projects**
+- 👯 I’m looking to collaborate on **Flutter Projects**
 
-- 💬 Ask me about  **python, C++, Bash and building cool sh*t**
+- 💬 Ask me anything about  **python and building cool sh*t**
 
 - 📫 How to reach me **https://t.me/F43CF7BE94816F2A2C7CC9AC8**
 
