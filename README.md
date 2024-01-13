@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning **Next Js**
 
-- 👯 I’m looking to collaborate on any **ReactJs or Flutter Projects**
+- 👯 I’m looking to collaborate on any **React or Flutter Projects**
 
 - 💬 Ask me anything about  **python and building cool sh*t**
 
