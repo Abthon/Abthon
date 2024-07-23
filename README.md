@@ -2,8 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=900&size=30&duration=2000&pause=1000&color=7B34CA&random=false&width=521&lines=I'm+Abenezer;Computer+Science+Student+at+HiLCoE;Machine+Learning+Enthusiast;And;A+passionate+Python+Developer+;From+Ethiopia)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
-- 🔭 I’m currently learning **Next Js**
-
 - 👯 I’m looking to collaborate on any **React or Flutter Projects**
 
 - 💬 Ask me anything about  **python and building cool sh*t**
